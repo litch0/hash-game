@@ -1,5 +1,6 @@
 # AngularApp
 This is an recreate of the app shown in this [video](https://www.youtube.com/watch?v=G0bBLvWXBvc&t=1090s).
+I made this app to help me understand how angular work
 
 ## Development server
 
